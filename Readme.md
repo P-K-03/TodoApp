@@ -22,3 +22,7 @@ This aplication uses:
 - Create a virtual environment using `venv` or `pipenv`
 - Install the `requirements.txt` file
 - Activate the virtual environment and run `fastapi run main.py`
+
+or 
+
+__Try__ : https://todoapp-1-252q.onrender.com
