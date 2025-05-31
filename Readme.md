@@ -17,8 +17,7 @@ This is a simple Todo application built with user authentication.
 2. Install dependencies.
 This aplication uses:
 - __*FastAPI, SQLAlchemy, Pydantic*__ and other Python libraries. Install these using the `requirements.txt` file
-- __*PostgreSQL*__ as the primary database
-- __*SQLite3*__ as the test database
+- __*SQLite3*__ as the database
 3. Run the application.
 - Create a virtual environment using `venv` or `pipenv`
 - Install the `requirements.txt` file
