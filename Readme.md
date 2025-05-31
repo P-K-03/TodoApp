@@ -13,7 +13,7 @@ This is a simple Todo application built with user authentication.
 ## Getting Started
 
 1. Clone the repository.
-- run `git clone something`
+- run `git clone https://github.com/P-K-03/TodoApp.git`
 2. Install dependencies.
 This aplication uses:
 - __*FastAPI, SQLAlchemy, Pydantic*__ and other Python libraries. Install these using the `requirements.txt` file
