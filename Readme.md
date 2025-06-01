@@ -16,7 +16,7 @@ This is a simple Todo application built with user authentication.
 - run `git clone https://github.com/P-K-03/TodoApp.git`
 2. Install dependencies.
 This aplication uses:
-- __*FastAPI, SQLAlchemy, Pydantic*__ and other Python libraries. Install these using the `requirements.txt` file
+- __*FastAPI, SQLAlchemy, Pydantic*__ and other Python libraries.
 - __*SQLite3*__ as the database
 3. Run the application.
 - Create a virtual environment using `venv` or `pipenv`
